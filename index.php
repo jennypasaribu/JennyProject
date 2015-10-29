@@ -2,14 +2,14 @@
     include("functions/SwitchVariabel.php");
 ?>
 <form name="Change_Variable" action="index.php" method="post">
-Change Variabel. Silahkan masukkan angka yang ingin anda diubah.
+Masukkan variabel
         <table>
      <tr>
-        <td>Variabel a : </td>
+        <td>Var a : </td>
         <td><input type="text" name="Sa" id="Sa" value=""></td>
      </tr>
      <tr>
-        <td>Variabel b: </td>
+        <td>Var b: </td>
         <td><input type="text" name="Sb" id="Sb" value=""></td>
      </tr>
      <tr>
