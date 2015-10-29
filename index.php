@@ -2,7 +2,7 @@
     include("functions/SwitchVariabel.php");
 ?>
 <form name="Change_Variable" action="index.php" method="post">
-Change Variabel. Silahkan masukkan angka yang ingin anda change.
+Change Variabel. Silahkan masukkan angka yang ingin anda diubah.
         <table>
      <tr>
         <td>Variabel a : </td>
